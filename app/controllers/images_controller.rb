@@ -19,3 +19,20 @@ class ImagesController < ApplicationController
   end
 
 end
+
+
+# To store permanently
+
+#MyUploader.enable_processing = true
+
+#@uploader = MyUploader.new(@user, :avatar)
+
+#@uploader.store!(File.open(path_to_file))
+
+#
+
+#class User < ActiveRecord::Base
+
+#  mount_uploader :avatar, AvatarUploader
+
+#end

@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48bd3702-a9ab-49e2-9ae1-2f56d1a5bd89" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/javascripts/images.js.coffee" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ajax_file_upload.iml" afterPath="$PROJECT_DIR$/.idea/ajax_file_upload.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.rb" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/bootstrap.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/bootstrap.js.coffee" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/images_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/images_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/images/index.html.erb" afterPath="$PROJECT_DIR$/app/views/images/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/jquery.wallform.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.wallform.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ajax_file_upload.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +12,7 @@
     <file path="/routes.rb" changelist="48bd3702-a9ab-49e2-9ae1-2f56d1a5bd89" time="1380688556102" ignored="false" />
     <file path="/application.html.erb" changelist="48bd3702-a9ab-49e2-9ae1-2f56d1a5bd89" time="1380688923597" ignored="false" />
     <file path="/index.html.erb" changelist="48bd3702-a9ab-49e2-9ae1-2f56d1a5bd89" time="1380699113838" ignored="false" />
-    <file path="/images_controller.rb" changelist="48bd3702-a9ab-49e2-9ae1-2f56d1a5bd89" time="1380699105418" ignored="false" />
+    <file path="/images_controller.rb" changelist="48bd3702-a9ab-49e2-9ae1-2f56d1a5bd89" time="1380699244996" ignored="false" />
     <file path="/image.rb" changelist="48bd3702-a9ab-49e2-9ae1-2f56d1a5bd89" time="1380689513217" ignored="false" />
     <file path="/images.js" changelist="48bd3702-a9ab-49e2-9ae1-2f56d1a5bd89" time="1380698997797" ignored="false" />
     <file path="/20131002060307_add_image_to_images.rb" changelist="48bd3702-a9ab-49e2-9ae1-2f56d1a5bd89" time="1380693855684" ignored="false" />
@@ -98,10 +86,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="images_controller.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="images_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/images_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="120" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
+            <state line="37" column="0" selection-start="651" selection-end="651" vertical-scroll-proportion="0.9390863">
               <folding />
             </state>
           </provider>
@@ -127,10 +115,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="images.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="images.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/images.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="12" selection-start="770" selection-end="770" vertical-scroll-proportion="0.5329949">
+            <state line="21" column="12" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -167,8 +155,8 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/bootstrap.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/jquery.wallform.js" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/images.js" />
-        <option value="$PROJECT_DIR$/app/controllers/images_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/images/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/images_controller.rb" />
       </list>
     </option>
   </component>
@@ -804,9 +792,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/images_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/images.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="120" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
+        <state line="21" column="12" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -821,9 +809,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/images.js">
+    <entry file="file://$PROJECT_DIR$/app/controllers/images_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="12" selection-start="770" selection-end="770" vertical-scroll-proportion="0.5329949">
+        <state line="37" column="0" selection-start="651" selection-end="651" vertical-scroll-proportion="0.9390863">
           <folding />
         </state>
       </provider>
