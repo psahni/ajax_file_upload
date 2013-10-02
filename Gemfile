@@ -16,6 +16,9 @@ end
 
 gem 'jquery-rails'
 
+gem 'mini_magick'
+gem 'carrierwave'
+
 
 
 

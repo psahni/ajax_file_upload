@@ -1,1 +1,41 @@
+<style>
+    #preview {margin-bottom:10px}
+    #preview img
+    {
+        width:250px;
+        border:solid 1px #333333;
+        margin-right:10px;
+
+    }
+</style>
+
 <h1>Ajax File Upload Application</h1>
+
+<div>
+
+  <div id='preview'>
+  </div>
+
+  <div id='imageloadstatus' style='display:none'>
+    <img src='/assets/loader.gif'>
+  </div>
+
+  <br/>
+
+  <%=form_for @image, :remote => true, :html => {:enctype => 'multipart/form-data', :id => 'cropimage'} do |form|%>
+
+
+      <div>
+        <%#=form.text_field :title%>
+      </div>
+
+     <div id='imageloadbutton'>
+        <%=form.file_field :file, :id => 'photoimg' %>
+     </div>
+
+
+  <% end %>
+
+  <div style='font-size:11px'>Max 256 KB JPG, PNG, GIF, JPEG and BMP</div>
+
+</div>
