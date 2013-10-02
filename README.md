@@ -1,4 +1,6 @@
-ajax_file_upload
+Ajax File Upload 
 ================
 
-jQuery, Rails, Ajax File Upload
+jQuery
+Rails 
+Ajax File Upload 
